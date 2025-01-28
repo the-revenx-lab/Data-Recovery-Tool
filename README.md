@@ -50,13 +50,18 @@ Web browser (for the front end)
 
 Steps:
 1.Clone the repository from GitHub
+
 2.Navigate to the project directory:
   cd <repository-name>
+  
 3.Install the required Python libraries:
   pip install -r requirements.txt
+  
 4.Run the back-end server:
   python app.py
+  
 5.Open the front-end files in a web browser or host them on a local/remote server.
+
 
 #Usage
 
