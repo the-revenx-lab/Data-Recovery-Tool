@@ -3,19 +3,19 @@ The Data Recovery Tool is a web-based, cross-platform solution for recovering lo
 
 The tool utilizes HTML, CSS, and JavaScript for the front end and Python with its libraries for the back end, making it robust and scalable. Real-time monitoring and advanced recovery algorithms enhance its reliability and transparency while adhering to strict data privacy and security protocols.
 
-Features
+#Features:
 
-Cross-Platform Compatibility: Operates seamlessly on Windows and Linux.
+1.Cross-Platform Compatibility: Operates seamlessly on Windows and Linux.
 
-User-Friendly Interface: Simplified UI for users with minimal technical knowledge.
+2.User-Friendly Interface: Simplified UI for users with minimal technical knowledge.
 
-Real-Time Monitoring: Tracks the progress of data recovery tasks.
+3.Real-Time Monitoring: Tracks the progress of data recovery tasks.
 
-Advanced Recovery Algorithms: Ensures efficient retrieval of lost or corrupted data.
+4.Advanced Recovery Algorithms: Ensures efficient retrieval of lost or corrupted data.
 
-Data Privacy and Security: Implements tight security protocols to safeguard user data.
+5.Data Privacy and Security: Implements tight security protocols to safeguard user data.
 
-Technologies Used
+#Technologies Used
 
 Front-End:
 
@@ -29,7 +29,7 @@ Back-End:
 
 Python: Core programming language.
 
-Libraries:
+#Libraries:
 
 os: Interacts with the operating system.
 
