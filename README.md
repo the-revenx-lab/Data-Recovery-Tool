@@ -49,6 +49,7 @@ pip (Python package manager)
 Web browser (for the front end)
 
 Steps:
+
 1.Clone the repository from GitHub
 
 2.Navigate to the project directory:
